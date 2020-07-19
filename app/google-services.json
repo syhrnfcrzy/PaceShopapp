@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520938577910",
+    "firebase_url": "https://paceshopapp.firebaseio.com",
+    "project_id": "paceshopapp",
+    "storage_bucket": "paceshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520938577910:android:cff75d3ca15c9186d571d7",
+        "android_client_info": {
+          "package_name": "com.ezy.paceshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520938577910-s5sgrvmr8idupktkjp46s0frqj2u046f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACReGoFF_borMHZNV23w9JfUn-GDJIauc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520938577910-s5sgrvmr8idupktkjp46s0frqj2u046f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

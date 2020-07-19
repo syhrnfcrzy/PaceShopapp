@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/ps"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/dftr_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_above="@id/msk_btn"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button"
+        android:text="Daftar"
+        android:textColor="#fff"/>
+    <Button
+        android:id="@+id/msk_btn"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button"
+        android:text="masuk"
+        android:layout_marginBottom="100dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="#fff" />
+
+</RelativeLayout>
